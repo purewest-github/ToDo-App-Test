@@ -1,2 +1,2 @@
-# ToDo-App-Test
-ToDo-App-Test
+# todo-app-sample
+Flask ToDo App
